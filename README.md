@@ -1,6 +1,6 @@
 ## 恐龙快跑!(T-Rex Runner) 
 
-是 Chrome 浏览器在离线时出现的小游戏彩蛋.你可以断开网络后,在 Chrome 进入任意链接看到这个游戏。虽然已经有人将这个游戏抽离出来了(见 https://github.com/wayou/t-rex-runner ),但是我们在原有基础上增加了更多的玩法。
+是 Chrome 浏览器在离线时出现的小游戏彩蛋.你可以断开网络后,在 Chrome 进入任意链接看到这个游戏。虽然已经有人将这个游戏抽离出来了(见 https://github.com/wayou/t-rex-runner ),但是我们在原有基础上增加了更多的玩法。原版本参考Github链接https://github.com/songzhaoheng/Java_Swing_Chrome_Browser_Tiaolong-2019-4-5
 
 ## 开发环境及工具
 
